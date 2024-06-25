@@ -42,11 +42,6 @@ If you encounter any issues or have suggestions for improvements, please open an
 
 Feel free to contribute to this project by submitting pull requests or by addressing any open issues.
 
-## Author
-
-- **Author:** Saurav Hathi
-- **GitHub:** [sauravhathi](https://github.com/sauravhathi)
-- **LinkedIn:** [Saurav Hathi on LinkedIn](https://www.linkedin.com/in/sauravhathi)
 
 ## License
 
